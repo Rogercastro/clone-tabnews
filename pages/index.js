@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Site Tab news == Teste de URL!</h1>;
+  return <h1>TODO MUNDO TÁ NO CORRE, ROMULO. Até EU! Rs...</h1>;
 }
 
 export default Home;
